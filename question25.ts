@@ -1,6 +1,6 @@
 //passing test
-let alienColor251 :string  = "Blue";
-if(alienColor251 === "Blue"){
+let alien_color25 :string  = "Yellow";
+if(alien_color25 === "Yellow"){
     console.log("Congratulations, You earned 5 points");
 }
 //Failing Test
